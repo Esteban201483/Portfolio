@@ -1,6 +1,6 @@
 <script>
-    const path = window.location.pathname.slice(1);
+    let path = window.location.pathname.slice(1);
+    path = path.toLowerCase();
     localStorage.setItem('path', path);
-    localStorage.setItem('path2', path);
     window.location.href='../';
 </script>
