@@ -1,0 +1,17 @@
+{
+    "contact": {
+        "position"                 : "Programador Fullstack MID",
+        "technical_skills"         : "Habilidades Técnicas",
+        "soft_skills"              : "Habilidades Blandas",
+        "projects"                 : "Proyectos",
+        "project_name"             : "Nombre del Proyecto",
+        "project_details"          : "Detalles",
+        "project_more_details"     : "Más Detalles"
+    },
+
+    "menu": {
+        "projects"                 : "Proyectos",
+        "index"                    : "Indice",
+        "certifications"           : "Certificaciones"
+    }
+}

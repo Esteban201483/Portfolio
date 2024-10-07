@@ -1,0 +1,18 @@
+{
+    "contact": {
+        "position"                 : "MID Fullstack Developer",
+        "technical_skills"         : "Technicall Skills",
+        "soft_skills"              : "Soft Skills",
+        "projects"                 : "Projects",
+        "project_name"             : "Project Name",
+        "project_details"          : "Details",
+        "project_more_details"     : "More Details"
+    },
+
+    "menu": {
+        "projects"                 : "Projects",
+        "index"                    : "Index",
+        "position"                 : "MID Fullstack Developer",
+        "certifications"           : "Certifications"
+    }
+}
